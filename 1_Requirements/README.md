@@ -6,7 +6,7 @@ The main parts in an electric car are a rechargeable battery, controller and ele
 ### HYBRID CAR
 The same technology exists in hybrid cars, alongside a small gasoline engine running a generator. This powers the car at cruising speed, and batteries provide extra power when accelerating. Batteries can recharge themselves when the car is decelerating or standing still. Hybrid technology means that your petrol goes much further, saving you money and reducing environmental impacts.
 ### Motor Specifications:
-Component   |     Tata Tiger EV     | Hyundai Kona |
+Component   |     Tata Tigor EV     | Hyundai Kona |
 ---------|------------------|-------------|
 Top speed |80kmh  | 165kmh|
 Accelaration(0-100kmph) |5.7s | 7.9s |
@@ -14,3 +14,12 @@ Engine type |PMSM  | PMSM |
 Max motor performance |73.75bhp 170nm  |134 bhp 395 Nm|
 Driving Range|165-213 kms  | 450kms|
 Battery |26 kWh, Lithium-ion  | 39.2 kWh, Lithium Ion Polymer, 327 Volt,Battery Placed Under Floor Pan	|
+
+### Saftey:
+Component   |   Tata Tigor EV        | Hyundai Kona |
+---------|------------------|-------------|
+Overspeed Warning |1 beep over 80kmph, Continuous beeps over 120kmph  | 1 beep over 80kmph, Continuous beeps over 120kmph|
+Emergency Brake Light Flashing |No  | Yes |
+NCAP Rating |5 Star (Global NCAP)  | 5 Star (Euro NCAP) |
+Airbags |2 Airbags (Driver, Passenger)  |6 Airbags (Driver, Passenger, 2 Curtain, Driver Side, Front Passenger Side)|
+Middle Rear Head Rest|No  | Yes|
