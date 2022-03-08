@@ -39,7 +39,7 @@ Middle Rear Head Rest|No  | Yes|
 |Electric range |306km|305 km |
 |Wheel base |2450 mm |2600 mm |
 
-## Research
+# Research
 ## TATA Tigor
 ### Specifications
 
