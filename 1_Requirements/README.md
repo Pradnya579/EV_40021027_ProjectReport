@@ -1,3 +1,7 @@
 # Requirement
 ## Introduction
 An electric car, battery electric car, or all-electric car is an automobile that is propelled by one or more electric motors, using only energy stored in batteries. Compared to internal combustion engine (ICE) vehicles, electric cars are quieter, have no exhaust emissions, and lower emissions overall. In the United States and the European Union, as of 2020, the total cost of ownership of recent electric vehicles is cheaper than that of equivalent ICE cars, due to lower fueling and maintenance costs. Charging an electric car can be done at a variety of charging stations; these charging stations can be installed in both houses and public areas.
+### FULLY ELECTRIC CAR
+The main parts in an electric car are a rechargeable battery, controller and electric motor. First, the battery is powered. Then the controller converts the current from DC-AC so that it can be used by the motor. The motor converts electrical energy to mechanical energy.
+### HYBRID CAR
+The same technology exists in hybrid cars, alongside a small gasoline engine running a generator. This powers the car at cruising speed, and batteries provide extra power when accelerating. Batteries can recharge themselves when the car is decelerating or standing still. Hybrid technology means that your petrol goes much further, saving you money and reducing environmental impacts.
