@@ -8,6 +8,7 @@ The same technology exists in hybrid cars, alongside a small gasoline engine run
 ### Motor Specifications:
 Component   |     Tata Tigor EV     | Hyundai Kona |
 ---------|------------------|-------------|
+Car|![image](https://user-images.githubusercontent.com/94118726/157276262-f08020fb-a78e-455f-bab1-2eca9d993978.png)|![image](https://user-images.githubusercontent.com/94118726/157276540-7b5718e5-2a82-4e89-a5a7-f7eb7f1debee.png)|
 Top speed |80kmh  | 165kmh|
 Accelaration(0-100kmph) |5.7s | 7.9s |
 Engine type |PMSM  | PMSM |
