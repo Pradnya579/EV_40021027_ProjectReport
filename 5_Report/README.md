@@ -1,4 +1,4 @@
-
+# EV CAR
 # Requirement
 ## Introduction
 An electric car, battery electric car, or all-electric car is an automobile that is propelled by one or more electric motors, using only energy stored in batteries. Compared to internal combustion engine (ICE) vehicles, electric cars are quieter, have no exhaust emissions, and lower emissions overall. In the United States and the European Union, as of 2020, the total cost of ownership of recent electric vehicles is cheaper than that of equivalent ICE cars, due to lower fueling and maintenance costs. Charging an electric car can be done at a variety of charging stations; these charging stations can be installed in both houses and public areas.
